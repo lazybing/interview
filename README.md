@@ -14,7 +14,9 @@ C/C++ 技术面试基础知识总结
 [Optimized shot-based encodes:Now Streaming!](https://netflixtechblog.com/optimized-shot-based-encodes-now-streaming-4b9464204830)  
 [Toward a Better Quality Metric for the Video Community](https://netflixtechblog.com/toward-a-better-quality-metric-for-the-video-community-7ed94e752a30)  
 
-
+## BitMovin
+[Cloud-based Per-Title Encoding Workflows (with AWS) – Part 1: Establishing the Architecture](https://bitmovin.com/cloud-based-per-title-encoding-aws-p1/)  
+[Cloud-based Per-Title Encoding Workflows (with AWS) – Part 2: Implementing the Encoding Workflow](https://bitmovin.com/cloud-based-per-title-encoding-aws-p2/)  
 
 
 
