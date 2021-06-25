@@ -12,6 +12,8 @@ C/C++ 技术面试基础知识总结
 
 ## Netflix
 [Per-Title Encode Optimization](https://netflixtechblog.com/per-title-encode-optimization-7e99442b62a2)  
+[More Efficient Mobile Encodes for Netflix Downloads](https://netflixtechblog.com/more-efficient-mobile-encodes-for-netflix-downloads-625d7b082909)  
+[Dynamic optimizer — a perceptual video encoding optimization framework](https://netflixtechblog.com/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f)  
 [Optimized shot-based encodes:Now Streaming!](https://netflixtechblog.com/optimized-shot-based-encodes-now-streaming-4b9464204830)  
 [Toward a Better Quality Metric for the Video Community](https://netflixtechblog.com/toward-a-better-quality-metric-for-the-video-community-7ed94e752a30)  
 
