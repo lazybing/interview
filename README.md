@@ -22,4 +22,9 @@ C/C++ 技术面试基础知识总结
 [Cloud-based Per-Title Encoding Workflows (with AWS) – Part 2: Implementing the Encoding Workflow](https://bitmovin.com/cloud-based-per-title-encoding-aws-p2/)  
 
 
-
+## 腾讯
+1. 说一下 RDO
+2. x264 中各个 preset 的设置，有哪些不通点。
+3. 简述一下 编码器的基本架构。
+4. 说一下 x264 和 open264 的异同，说一下 x264 为什么更好一些。
+5. VMAF 受 filter 的影响比较大，怎么看待。
