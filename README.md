@@ -6,6 +6,7 @@
 ##  经典文章
 [视频编码优化之道](https://cloud.tencent.com/developer/article/1167022)  
 [阿里云窄带高清的演进与思考](https://zhuanlan.zhihu.com/p/366605123)  
+[Video Codec Testing and Quality Measurement](https://tools.ietf.org/id/draft-ietf-netvc-testing-06.html)  
 
 ## Beamer
 [optimizing-bitrates-for-user-generated-videos-with-beamr-cabr](https://blog.beamr.com/2020/07/12/optimizing-bitrates-for-user-generated-videos-with-beamr-cabr/)  
