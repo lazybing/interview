@@ -46,3 +46,4 @@
 
 - [x] 问： 如何衡量一个编码器的好坏
 > 答：评判标准有很多，大的方向有三个：编码质量、压缩率、编码性能。客观评价标准 PSNR、SSIM，主观评价标准 VMAF。Bitrate 与 PSNR 曲线。BD-Rate 相同质量下的码率差异。BD-PSNR 相同码率下的质量差异。
+> [视频编码 率失真性能评价指标：PSNR SSIM BD-rate BD-PSNR](https://www.cnblogs.com/sddai/p/14356542.html)  
