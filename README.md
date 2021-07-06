@@ -24,6 +24,9 @@
 [Cloud-based Per-Title Encoding Workflows (with AWS) – Part 1: Establishing the Architecture](https://bitmovin.com/cloud-based-per-title-encoding-aws-p1/)  
 [Cloud-based Per-Title Encoding Workflows (with AWS) – Part 2: Implementing the Encoding Workflow](https://bitmovin.com/cloud-based-per-title-encoding-aws-p2/)  
 
+## ZEncoder
+[Overview of Context Aware Encoding](https://zencoder.support.brightcove.com/general-information/overview-context-aware-encoding.html)
+
 ## BiliBili
 [哔哩哔哩点播码率优化实践](https://www.livevideostack.cn/news/bilibili-20200714/)
 
