@@ -30,6 +30,9 @@
 ## BiliBili
 [哔哩哔哩点播码率优化实践](https://www.livevideostack.cn/news/bilibili-20200714/)
 
+## Tecent
+[程序员精进之路：性能调优利器--火焰图](https://www.jiqizhixin.com/articles/2020-06-16-3)
+
 ## Tencent
 - [ ] 说一下 RDO。  
 - [ ] 说一下 HDR 的部分。
