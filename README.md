@@ -31,7 +31,8 @@
 [哔哩哔哩点播码率优化实践](https://www.livevideostack.cn/news/bilibili-20200714/)
 
 ## Tecent
-[程序员精进之路：性能调优利器--火焰图](https://www.jiqizhixin.com/articles/2020-06-16-3)
+[程序员精进之路：性能调优利器--火焰图](https://www.jiqizhixin.com/articles/2020-06-16-3)  
+[腾讯V265编码器：给用户以完备的265体验](https://zhuanlan.zhihu.com/p/82884332)
 
 ## Tencent
 - [ ] 说一下 RDO。  
