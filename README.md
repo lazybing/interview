@@ -8,6 +8,12 @@
 [阿里云窄带高清的演进与思考](https://zhuanlan.zhihu.com/p/366605123)  
 [Video Codec Testing and Quality Measurement](https://tools.ietf.org/id/draft-ietf-netvc-testing-06.html)  
 
+### 上海交通大学
+[SJTU 4K Video Subjective Quality Dataset for Content Adaptive Bit Rate Estimation without Encoding](https://github.com/lazybing/Daily_Studying/blob/master/paper/SJTU%204K%20Video%20Subjective%20Quality%20Dataset%20for%20Content%20Adaptive%20Bit%20Rate%20Estimation%20without%20Encoding.pdf)  
+[H.264-Advanced-Video-Control-Perceptual-Optimization-Coding-Based-on-JND-Directed-Coefficient-Suppression](https://github.com/lazybing/Daily_Studying/blob/master/paper/H.264-Advanced-Video-Control-Perceptual-Optimization-Coding-Based-on-JND-Directed-Coefficient-Suppression.pdf)  
+[Masking Effects Based Rate Control Scheme for High Efficiency Video Coding](https://github.com/lazybing/Daily_Studying/blob/master/paper/Masking%20Effects%20Based%20Rate%20Control%20Scheme%20for%20High%20Efficiency%20Video%20Coding.pdf)  
+[An MCMC based Efficient Parameter Selection Model for x265 Encoder](https://github.com/lazybing/Daily_Studying/blob/master/paper/An%20MCMC%20based%20Efficient%20Parameter%20Selection%20Model%20for%20x265%20Encoder.pdf)  
+
 ## Beamer
 [optimizing-bitrates-for-user-generated-videos-with-beamr-cabr](https://blog.beamr.com/2020/07/12/optimizing-bitrates-for-user-generated-videos-with-beamr-cabr/)  
 [The Patented Visual Quality Measure that was Designed to Drive Higher Compression Efficiency](https://blog.beamr.com/2019/09/11/visual-quality-measure/)  
@@ -23,6 +29,9 @@
 ## BitMovin
 [Cloud-based Per-Title Encoding Workflows (with AWS) – Part 1: Establishing the Architecture](https://bitmovin.com/cloud-based-per-title-encoding-aws-p1/)  
 [Cloud-based Per-Title Encoding Workflows (with AWS) – Part 2: Implementing the Encoding Workflow](https://bitmovin.com/cloud-based-per-title-encoding-aws-p2/)  
+
+## YouTuBe
+[Optimizing Transcoder Quality Targets Using a Neural Network with an Embedded Bitrate Model](https://github.com/lazybing/Daily_Studying/blob/master/paper/Optimizing%20Transcoder%20Quality%20Targets%20Using%20a%20Neural%20Network%20with%20an%20Embedded%20Bitrate%20Model.pdf)
 
 ## ZEncoder
 [Overview of Context Aware Encoding](https://zencoder.support.brightcove.com/general-information/overview-context-aware-encoding.html)
