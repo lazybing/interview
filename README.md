@@ -7,6 +7,7 @@
 [视频编码优化之道](https://cloud.tencent.com/developer/article/1167022)  
 [阿里云窄带高清的演进与思考](https://zhuanlan.zhihu.com/p/366605123)  
 [Video Codec Testing and Quality Measurement](https://tools.ietf.org/id/draft-ietf-netvc-testing-06.html)  
+[十方云山x264分析](https://www.cnblogs.com/wangnath/)  
 
 ### 上海交通大学
 [SJTU 4K Video Subjective Quality Dataset for Content Adaptive Bit Rate Estimation without Encoding](https://github.com/lazybing/Daily_Studying/blob/master/paper/SJTU%204K%20Video%20Subjective%20Quality%20Dataset%20for%20Content%20Adaptive%20Bit%20Rate%20Estimation%20without%20Encoding.pdf)  
